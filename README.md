@@ -1,4 +1,4 @@
-<h1 align="center"> Curiculo gustavo bueno mazur </h1>
+<h1 align="center"> Currículo gustavo bueno mazur </h1>
 
 
 
